@@ -1,6 +1,6 @@
 
 # Time series clustering by sklearn trees
-Solution of the problem based on algorithm from the article:**"Method for clustering of heterogeneous time series" **by Berikov Vladimir, Pestunov Igor, Gerasimov Maxim 
+Solution of the problem based on algorithm from the article:<strong>"Method for clustering of heterogeneous time series"</strong> by Berikov Vladimir, Pestunov Igor, Gerasimov Maxim 
 
 link (RUS) : https://cyberleninka.ru/article/n/metod-klasternogo-analiza-raznotipnyh-vremennyh-ryadov 
 
@@ -10,4 +10,3 @@ link (RUS) : https://cyberleninka.ru/article/n/metod-klasternogo-analiza-raznoti
 1. For all time series, pairwise measures of the difference ρ(i, j) are calculated. The matrix M is determined.
 1. Using the matrix of various differences M and the standard hierarchical clustering algorithm find time series clustrers.
 
-## My results
